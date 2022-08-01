@@ -1,0 +1,246 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"ba",
+				"background-attachment"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"fon",
+				"font"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"d",
+				"div"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"o",
+				"option"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"h",
+				"h2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 142.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Ismael/Desktop/Projeto Ana bela/Projeto Ana Bela.html",
+		"/C/Users/Ismael/Desktop/Primeira Projeto/cor-imagem-fundo.html",
+		"/C/Users/Ismael/Desktop/Primeira Projeto/página2.html",
+		"/C/Users/Ismael/Desktop/Primeira Projeto/classes_ids.html",
+		"/C/Users/Ismael/Desktop/Primeira Projeto/página1.html",
+		"/C/Users/Ismael/Desktop/Primeira Projeto/estilo.css",
+		"/C/Users/Ismael/Desktop/Primeira Projeto/divs.html",
+		"/C/Users/Ismael/Desktop/Primeira Projeto/bordas.html",
+		"/C/Users/Ismael/Desktop/Primeira Projeto/fonte-cores.html",
+		"/C/Users/Ismael/Desktop/Primeira Projeto/textos.html",
+		"/C/Users/Ismael/Desktop/Primeira Projeto/Projeto CSS 3.sublime-workspace",
+		"/C/Users/Ismael/Desktop/Primeira Projeto/inline_style.html",
+		"/C/Users/Ismael/Desktop/Projeto CSS 3",
+		"/C/Users/Ismael/Desktop/Primeira Projeto/contato.html",
+		"/C/Users/Ismael/Desktop/Primeira Projeto/quem-somos.html",
+		"/C/Users/Ismael/Desktop/Primeira Projeto/index.html",
+		"/C/Users/Ismael/Desktop/Primeira Projeto/projeto.html",
+		"/C/Users/Ismael/Desktop/Projeto Web/index.html",
+		"/C/Users/Ismael/Desktop/Projeto Aula/index.html",
+		"/C/Users/Ismael/Desktop/Projeto Aula/CSS/estilo-teste.css"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Projeto Ana Bela.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 156.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
